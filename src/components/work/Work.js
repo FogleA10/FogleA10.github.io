@@ -1,8 +1,10 @@
 import Project from "../project";
+import runBuddy from "../../images/RunBuddy.png";
+
 const projectData = [
   {
     link: "https://foglea10.github.io/RunBuddy/",
-    source: "./assets/images/RunBuddy.png",
+    source: runBuddy,
     title: "Run Buddy",
     subHeader: "RUN!!!",
   },
