@@ -49,7 +49,7 @@ body {
   background-color:#f4f0ec;
 }
 .hero {
-  background-image: url(../images/Blue_Ridge_Mountains.png);
+  background-image: url(./images/Blue_Ridge_Mountains.png);
   height: 600px;
   background-size: cover;
   background-position: right;
