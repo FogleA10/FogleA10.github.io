@@ -1,6 +1,7 @@
 import Project from "../project";
 import runBuddy from "../../images/RunBuddy.png";
 
+
 const projectData = [
   {
     link: "https://foglea10.github.io/RunBuddy/",
@@ -16,15 +17,15 @@ const projectData = [
   },
   {
     link: "https://foglea10.github.io/RunBuddy/",
-    source: "./assets/images/RunBuddy.png",
-    title: "Run Buddy",
-    subHeader: "RUN!!!",
+    source: "",
+    title: "Projects",
+    subHeader: "Note-Eater",
   },
   {
     link: "https://foglea10.github.io/RunBuddy/",
-    source: "./assets/images/RunBuddy.png",
-    title: "Run Buddy",
-    subHeader: "RUN!!!",
+    source: "",
+    title: "Project 2",
+    subHeader: "Gather",
   },
 ];
 const Work = () => {
