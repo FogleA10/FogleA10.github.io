@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/foglea10.github.io/static/css/main.bdc24ca6.css",
+    "main.js": "/foglea10.github.io/static/js/main.89361cfd.js",
+    "static/js/787.3b844a7a.chunk.js": "/foglea10.github.io/static/js/787.3b844a7a.chunk.js",
+    "static/media/RunBuddy.png": "/foglea10.github.io/static/media/RunBuddy.bcadc5c3c0012105992e.png",
+    "static/media/Blue_Ridge_Mountains.png": "/foglea10.github.io/static/media/Blue_Ridge_Mountains.5bd537615585c9b4038c.png",
+    "static/media/audrey.jpeg": "/foglea10.github.io/static/media/audrey.f8d56b5baddf29f693e8.jpeg",
+    "index.html": "/foglea10.github.io/index.html",
+    "main.bdc24ca6.css.map": "/foglea10.github.io/static/css/main.bdc24ca6.css.map",
+    "main.89361cfd.js.map": "/foglea10.github.io/static/js/main.89361cfd.js.map",
+    "787.3b844a7a.chunk.js.map": "/foglea10.github.io/static/js/787.3b844a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdc24ca6.css",
+    "static/js/main.89361cfd.js"
+  ]
+}
